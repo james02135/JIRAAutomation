@@ -1,0 +1,2 @@
+# JIRAAutomation
+Automating JIRA tickets
